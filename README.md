@@ -1,2 +1,1 @@
-# goit-fs
-GoIT Full Stack Course
+The first HTML homework of GoIT FS Course
